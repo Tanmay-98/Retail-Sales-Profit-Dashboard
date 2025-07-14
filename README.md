@@ -37,7 +37,10 @@ This project is an Excel-based interactive dashboard developed for a retail busi
 
 ## 📌 Screenshots
 
-![Dashboard Page](assets/screenshots-of-dashboard.png)
+![Dashboard Page](assets/Main_Page.png)
+![Dashboard Page](assets/Sales_Trends_Page.png)
+![Dashboard Page](assets/Store_Performance_Page.png)
+![Dashboard Page](assets/Customer_Behaviour_Page.png)
 
 ## 📝 Project Document
 
